@@ -1,0 +1,33 @@
+Character Selection
+
+Orc
+Human
+Elve
+Dwarf
+
+The Orc is a hulking brute of a creature, towering over all others with its immense 
+strength and ferocity. Born into a world of violence and bloodshed, the Orc has learned
+to master the art of destruction, wielding its weapons with deadly precision and causing
+chaos and mayhem wherever it goes.
+
+The Human is a creature of intellect and charm, a born leader with a keen eye for 
+strategy and diplomacy. Whether wielding a sword and shield or a bow and arrow, 
+the Human is equally deadly, capable of taking down enemies from afar or in close combat.
+
+The Elve is a creature of magic and grace, a being of otherworldly beauty and enduring 
+resilience. Though its body is fragile, the Elve's mind is sharp and its dexterity 
+unmatched, able to weave spells of great power and dance circles around its enemies.
+
+The Dwarf is a creature of strength and resilience, tough as the mountains themselves 
+and possessing a will to match. Capable of bashing in skulls with a single blow, the 
+Dwarf is also a skilled healer, able to mend the wounds of its allies 
+and keep them fighting on through even the toughest battles.
+
+
+
+Now I want to do an epic introduction of the 4 possible heroes for the player to choose. An Orc extremely strong, proficient in wreaking havoc on his enemies, high strength, medium dexterity, low intelligence.
+Human, smart, charismatic, good either with a sword and shield or with a bow and arrow. Medium health, medium strength, medium dexterity, medium intelligence.
+Elve, extremely smart and agile race, time enduring with fragile bodies, proficient in the use of magic and dexterity weapons and abilities. low strength, high intelligence, high dexterity.
+Dwarf, 
+
+I am making a text adventure game and I want you to help me with the story, it is called King of the Void, is about a group of heroes in a medieval fantasy land, that face a group of challenges to vanquish the villain, I want you to help me write a prologue, it is supposed to introduce the land called Callenhill. I want the prologue to describe the villain but keep its look in mystery, just describe all the evil things he has done, he has spread death and misery. I want it to be slightly grim and kind of a Dungeons and Dragons/Dark Souls Style
